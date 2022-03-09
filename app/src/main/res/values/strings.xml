@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My country App</string>
+    <string name="this_is_the_splash_fragment">This is the splash fragment</string>
+    <string name="this_is_the_home_fragment">This is the Home fragment</string>
+    <string name="fragment_home">Fragment Home</string>
+    <string name="welcome_user">Welcome %s</string>
+    <string name="visitor_num">Compteur : %s</string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    <string name="reset">reset</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="welcome_to_this_app">Welcome to this App</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="quit">Quit</string>
+    <string name="random_number">Random number : %s</string>
+</resources>
